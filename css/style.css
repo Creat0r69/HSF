@@ -301,7 +301,6 @@ a {
   aspect-ratio: 375/823;
   width: 100%;
   position: relative;
-  background-image: url(../images/footer-sm.png);
   background-size: cover, cover;
   overflow: hidden;
   background-position: top center, top center;
@@ -435,9 +434,6 @@ a {
     font-size: 1.1rem;
   }
 
-  .footer {
-    background-image: url(../images/footer.png);
-  }
   .footer_img {
     margin-top: 3.75rem;
     aspect-ratio: 496/140;
